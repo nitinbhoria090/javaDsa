@@ -4,9 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0213-house-robber-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/0213-house-robber-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nitinbhoria090/javaDsa/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nitinbhoria090/javaDsa/tree/master/3718-smallest-missing-multiple-of-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0213-house-robber-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/0213-house-robber-ii) |
 <!---LeetCode Topics End-->
