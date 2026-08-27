@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/nitinbhoria090/javaDsa/tree/master/1025-divisor-game) |
+## String
+|  |
+| ------- |
+| [0551-student-attendance-record-i](https://github.com/nitinbhoria090/javaDsa/tree/master/0551-student-attendance-record-i) |
 <!---LeetCode Topics End-->
