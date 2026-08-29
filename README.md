@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0213-house-robber-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/0213-house-robber-ii) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nitinbhoria090/javaDsa/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nitinbhoria090/javaDsa/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
@@ -51,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/nitinbhoria090/javaDsa/tree/master/1143-longest-common-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nitinbhoria090/javaDsa/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+## Sorting
+|  |
+| ------- |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nitinbhoria090/javaDsa/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 <!---LeetCode Topics End-->
