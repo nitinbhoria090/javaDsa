@@ -9,7 +9,7 @@ class Solution {
         boolean lower = false;
         boolean special = false;
 
-        String specialChars = "!@#$%^&*()-+";
+       
 
         for (int i = 0; i < password.length(); i++) {
             char ch = password.charAt(i);
@@ -20,7 +20,7 @@ class Solution {
                 upper = true;
             } else if (ch >= '0' && ch <= '9') {
                 digit = true;
-            } else if (specialChars.indexOf(ch) != -1) {
+            } else {
                 special = true;
             }
             if (i > 0 && password.charAt(i) == password.charAt(i - 1)) {
