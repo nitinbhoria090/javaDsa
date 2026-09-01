@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/nitinbhoria090/javaDsa/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nitinbhoria090/javaDsa/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1143-longest-common-subsequence](https://github.com/nitinbhoria090/javaDsa/tree/master/1143-longest-common-subsequence) |
+| [2000-reverse-prefix-of-word](https://github.com/nitinbhoria090/javaDsa/tree/master/2000-reverse-prefix-of-word) |
 | [2299-strong-password-checker-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/2299-strong-password-checker-ii) |
 ## Two Pointers
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/nitinbhoria090/javaDsa/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0948-bag-of-tokens](https://github.com/nitinbhoria090/javaDsa/tree/master/0948-bag-of-tokens) |
 | [1089-duplicate-zeros](https://github.com/nitinbhoria090/javaDsa/tree/master/1089-duplicate-zeros) |
+| [2000-reverse-prefix-of-word](https://github.com/nitinbhoria090/javaDsa/tree/master/2000-reverse-prefix-of-word) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/nitinbhoria090/javaDsa/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/nitinbhoria090/javaDsa/tree/master/0374-guess-number-higher-or-lower) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/nitinbhoria090/javaDsa/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
