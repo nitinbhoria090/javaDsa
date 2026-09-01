@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/nitinbhoria090/javaDsa/tree/master/0118-pascals-triangle) |
+| [0179-largest-number](https://github.com/nitinbhoria090/javaDsa/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/0213-house-robber-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/nitinbhoria090/javaDsa/tree/master/0645-set-mismatch) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/nitinbhoria090/javaDsa/tree/master/0179-largest-number) |
 | [0551-student-attendance-record-i](https://github.com/nitinbhoria090/javaDsa/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nitinbhoria090/javaDsa/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1143-longest-common-subsequence](https://github.com/nitinbhoria090/javaDsa/tree/master/1143-longest-common-subsequence) |
@@ -74,12 +76,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/nitinbhoria090/javaDsa/tree/master/0179-largest-number) |
 | [0881-boats-to-save-people](https://github.com/nitinbhoria090/javaDsa/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/nitinbhoria090/javaDsa/tree/master/0948-bag-of-tokens) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nitinbhoria090/javaDsa/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/nitinbhoria090/javaDsa/tree/master/0179-largest-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/nitinbhoria090/javaDsa/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/nitinbhoria090/javaDsa/tree/master/0881-boats-to-save-people) |
