@@ -13,12 +13,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/nitinbhoria090/javaDsa/tree/master/0948-bag-of-tokens) |
 | [1089-duplicate-zeros](https://github.com/nitinbhoria090/javaDsa/tree/master/1089-duplicate-zeros) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nitinbhoria090/javaDsa/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitinbhoria090/javaDsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/nitinbhoria090/javaDsa/tree/master/2460-apply-operations-to-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nitinbhoria090/javaDsa/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/nitinbhoria090/javaDsa/tree/master/0645-set-mismatch) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitinbhoria090/javaDsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nitinbhoria090/javaDsa/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/nitinbhoria090/javaDsa/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/nitinbhoria090/javaDsa/tree/master/0948-bag-of-tokens) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nitinbhoria090/javaDsa/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitinbhoria090/javaDsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/nitinbhoria090/javaDsa/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/nitinbhoria090/javaDsa/tree/master/0948-bag-of-tokens) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nitinbhoria090/javaDsa/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitinbhoria090/javaDsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,9 +114,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitinbhoria090/javaDsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/nitinbhoria090/javaDsa/tree/master/2460-apply-operations-to-an-array) |
 ## Timsort
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/nitinbhoria090/javaDsa/tree/master/0881-boats-to-save-people) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitinbhoria090/javaDsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 <!---LeetCode Topics End-->
