@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/nitinbhoria090/javaDsa/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/nitinbhoria090/javaDsa/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/nitinbhoria090/javaDsa/tree/master/0322-coin-change) |
 | [0560-subarray-sum-equals-k](https://github.com/nitinbhoria090/javaDsa/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/nitinbhoria090/javaDsa/tree/master/0645-set-mismatch) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/nitinbhoria090/javaDsa/tree/master/0118-pascals-triangle) |
 | [0213-house-robber-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/0213-house-robber-ii) |
+| [0322-coin-change](https://github.com/nitinbhoria090/javaDsa/tree/master/0322-coin-change) |
 | [1025-divisor-game](https://github.com/nitinbhoria090/javaDsa/tree/master/1025-divisor-game) |
 | [1143-longest-common-subsequence](https://github.com/nitinbhoria090/javaDsa/tree/master/1143-longest-common-subsequence) |
 ## Math
@@ -150,4 +152,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/nitinbhoria090/javaDsa/tree/master/0912-sort-an-array) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/nitinbhoria090/javaDsa/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/nitinbhoria090/javaDsa/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/nitinbhoria090/javaDsa/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
