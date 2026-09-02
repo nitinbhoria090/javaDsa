@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/nitinbhoria090/javaDsa/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/nitinbhoria090/javaDsa/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/nitinbhoria090/javaDsa/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/nitinbhoria090/javaDsa/tree/master/0948-bag-of-tokens) |
 | [1089-duplicate-zeros](https://github.com/nitinbhoria090/javaDsa/tree/master/1089-duplicate-zeros) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nitinbhoria090/javaDsa/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/nitinbhoria090/javaDsa/tree/master/0645-set-mismatch) |
 | [0881-boats-to-save-people](https://github.com/nitinbhoria090/javaDsa/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/nitinbhoria090/javaDsa/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/nitinbhoria090/javaDsa/tree/master/0948-bag-of-tokens) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nitinbhoria090/javaDsa/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitinbhoria090/javaDsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -126,5 +128,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/nitinbhoria090/javaDsa/tree/master/0912-sort-an-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitinbhoria090/javaDsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nitinbhoria090/javaDsa/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nitinbhoria090/javaDsa/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nitinbhoria090/javaDsa/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nitinbhoria090/javaDsa/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/nitinbhoria090/javaDsa/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
