@@ -188,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/nitinbhoria090/javaDsa/tree/master/1952-three-divisors) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/nitinbhoria090/javaDsa/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
