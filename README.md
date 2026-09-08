@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/nitinbhoria090/javaDsa/tree/master/1025-divisor-game) |
+| [1952-three-divisors](https://github.com/nitinbhoria090/javaDsa/tree/master/1952-three-divisors) |
 | [2485-find-the-pivot-integer](https://github.com/nitinbhoria090/javaDsa/tree/master/2485-find-the-pivot-integer) |
 | [3870-count-commas-in-range](https://github.com/nitinbhoria090/javaDsa/tree/master/3870-count-commas-in-range) |
 ## Brainteaser
@@ -171,4 +172,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/nitinbhoria090/javaDsa/tree/master/0322-coin-change) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/nitinbhoria090/javaDsa/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/nitinbhoria090/javaDsa/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/nitinbhoria090/javaDsa/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/nitinbhoria090/javaDsa/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
