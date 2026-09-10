@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nitinbhoria090/javaDsa/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/nitinbhoria090/javaDsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0118-pascals-triangle](https://github.com/nitinbhoria090/javaDsa/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/nitinbhoria090/javaDsa/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/0213-house-robber-ii) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nitinbhoria090/javaDsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0278-first-bad-version](https://github.com/nitinbhoria090/javaDsa/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/nitinbhoria090/javaDsa/tree/master/0374-guess-number-higher-or-lower) |
 ## Interactive
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/nitinbhoria090/javaDsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0912-sort-an-array](https://github.com/nitinbhoria090/javaDsa/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
