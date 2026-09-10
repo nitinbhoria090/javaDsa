@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nitinbhoria090/javaDsa/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/nitinbhoria090/javaDsa/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/nitinbhoria090/javaDsa/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/0213-house-robber-ii) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nitinbhoria090/javaDsa/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nitinbhoria090/javaDsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/nitinbhoria090/javaDsa/tree/master/0645-set-mismatch) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitinbhoria090/javaDsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
