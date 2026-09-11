@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1089-duplicate-zeros](https://github.com/nitinbhoria090/javaDsa/tree/master/1089-duplicate-zeros) |
 | [1539-kth-missing-positive-number](https://github.com/nitinbhoria090/javaDsa/tree/master/1539-kth-missing-positive-number) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/nitinbhoria090/javaDsa/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2094-finding-3-digit-even-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nitinbhoria090/javaDsa/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitinbhoria090/javaDsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/nitinbhoria090/javaDsa/tree/master/2460-apply-operations-to-an-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nitinbhoria090/javaDsa/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/nitinbhoria090/javaDsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/nitinbhoria090/javaDsa/tree/master/0645-set-mismatch) |
+| [2094-finding-3-digit-even-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitinbhoria090/javaDsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nitinbhoria090/javaDsa/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/nitinbhoria090/javaDsa/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/nitinbhoria090/javaDsa/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/nitinbhoria090/javaDsa/tree/master/0948-bag-of-tokens) |
+| [2094-finding-3-digit-even-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nitinbhoria090/javaDsa/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitinbhoria090/javaDsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Bit Manipulation
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/nitinbhoria090/javaDsa/tree/master/1952-three-divisors) |
+| [2094-finding-3-digit-even-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Number Theory
 |  |
@@ -208,5 +212,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
