@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/nitinbhoria090/javaDsa/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/nitinbhoria090/javaDsa/tree/master/1025-divisor-game) |
 | [1952-three-divisors](https://github.com/nitinbhoria090/javaDsa/tree/master/1952-three-divisors) |
