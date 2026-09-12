@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/nitinbhoria090/javaDsa/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/nitinbhoria090/javaDsa/tree/master/0179-largest-number) |
 | [0551-student-attendance-record-i](https://github.com/nitinbhoria090/javaDsa/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nitinbhoria090/javaDsa/tree/master/0557-reverse-words-in-a-string-iii) |
