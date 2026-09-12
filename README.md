@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nitinbhoria090/javaDsa/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/nitinbhoria090/javaDsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/nitinbhoria090/javaDsa/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/nitinbhoria090/javaDsa/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/nitinbhoria090/javaDsa/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/0213-house-robber-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/nitinbhoria090/javaDsa/tree/master/0027-remove-element) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nitinbhoria090/javaDsa/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0881-boats-to-save-people](https://github.com/nitinbhoria090/javaDsa/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/nitinbhoria090/javaDsa/tree/master/0948-bag-of-tokens) |
