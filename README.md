@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/nitinbhoria090/javaDsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/nitinbhoria090/javaDsa/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/nitinbhoria090/javaDsa/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/nitinbhoria090/javaDsa/tree/master/0118-pascals-triangle) |
 | [0179-largest-number](https://github.com/nitinbhoria090/javaDsa/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/0213-house-robber-ii) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nitinbhoria090/javaDsa/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/0059-spiral-matrix-ii) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitinbhoria090/javaDsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/nitinbhoria090/javaDsa/tree/master/2460-apply-operations-to-an-array) |
 ## Timsort
@@ -248,4 +250,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/nitinbhoria090/javaDsa/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
