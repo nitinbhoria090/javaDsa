@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/nitinbhoria090/javaDsa/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/nitinbhoria090/javaDsa/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/nitinbhoria090/javaDsa/tree/master/0948-bag-of-tokens) |
+| [0989-add-to-array-form-of-integer](https://github.com/nitinbhoria090/javaDsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1089-duplicate-zeros](https://github.com/nitinbhoria090/javaDsa/tree/master/1089-duplicate-zeros) |
 | [1539-kth-missing-positive-number](https://github.com/nitinbhoria090/javaDsa/tree/master/1539-kth-missing-positive-number) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/nitinbhoria090/javaDsa/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/nitinbhoria090/javaDsa/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0989-add-to-array-form-of-integer](https://github.com/nitinbhoria090/javaDsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/nitinbhoria090/javaDsa/tree/master/1025-divisor-game) |
 | [1952-three-divisors](https://github.com/nitinbhoria090/javaDsa/tree/master/1952-three-divisors) |
 | [2485-find-the-pivot-integer](https://github.com/nitinbhoria090/javaDsa/tree/master/2485-find-the-pivot-integer) |
