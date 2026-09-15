@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/nitinbhoria090/javaDsa/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/nitinbhoria090/javaDsa/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/nitinbhoria090/javaDsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1025-divisor-game](https://github.com/nitinbhoria090/javaDsa/tree/master/1025-divisor-game) |
 | [1952-three-divisors](https://github.com/nitinbhoria090/javaDsa/tree/master/1952-three-divisors) |
@@ -276,4 +277,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/nitinbhoria090/javaDsa/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nitinbhoria090/javaDsa/tree/master/0144-binary-tree-preorder-traversal) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/nitinbhoria090/javaDsa/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
