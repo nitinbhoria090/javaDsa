@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/nitinbhoria090/javaDsa/tree/master/0027-remove-element) |
 | [0054-spiral-matrix](https://github.com/nitinbhoria090/javaDsa/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/nitinbhoria090/javaDsa/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/nitinbhoria090/javaDsa/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/nitinbhoria090/javaDsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nitinbhoria090/javaDsa/tree/master/0179-largest-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nitinbhoria090/javaDsa/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/nitinbhoria090/javaDsa/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/nitinbhoria090/javaDsa/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/nitinbhoria090/javaDsa/tree/master/0989-add-to-array-form-of-integer) |
