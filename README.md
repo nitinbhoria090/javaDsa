@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/nitinbhoria090/javaDsa/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nitinbhoria090/javaDsa/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1143-longest-common-subsequence](https://github.com/nitinbhoria090/javaDsa/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1332-remove-palindromic-subsequences](https://github.com/nitinbhoria090/javaDsa/tree/master/1332-remove-palindromic-subsequences) |
 | [2000-reverse-prefix-of-word](https://github.com/nitinbhoria090/javaDsa/tree/master/2000-reverse-prefix-of-word) |
 | [2299-strong-password-checker-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/2299-strong-password-checker-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/nitinbhoria090/javaDsa/tree/master/0144-binary-tree-preorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/nitinbhoria090/javaDsa/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/nitinbhoria090/javaDsa/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/nitinbhoria090/javaDsa/tree/master/2000-reverse-prefix-of-word) |
 ## Simulation
 |  |
@@ -301,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nitinbhoria090/javaDsa/tree/master/0169-majority-element) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
