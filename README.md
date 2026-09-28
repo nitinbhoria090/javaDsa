@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/nitinbhoria090/javaDsa/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1332-remove-palindromic-subsequences](https://github.com/nitinbhoria090/javaDsa/tree/master/1332-remove-palindromic-subsequences) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/nitinbhoria090/javaDsa/tree/master/2000-reverse-prefix-of-word) |
 | [2299-strong-password-checker-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/2299-strong-password-checker-ii) |
 | [3794-reverse-string-prefix](https://github.com/nitinbhoria090/javaDsa/tree/master/3794-reverse-string-prefix) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0589-n-ary-tree-preorder-traversal](https://github.com/nitinbhoria090/javaDsa/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/nitinbhoria090/javaDsa/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/nitinbhoria090/javaDsa/tree/master/2000-reverse-prefix-of-word) |
 ## Simulation
 |  |
@@ -307,4 +309,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
