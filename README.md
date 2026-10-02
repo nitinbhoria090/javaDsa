@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/nitinbhoria090/javaDsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitinbhoria090/javaDsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0213-house-robber-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/0213-house-robber-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/nitinbhoria090/javaDsa/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/nitinbhoria090/javaDsa/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/nitinbhoria090/javaDsa/tree/master/0151-reverse-words-in-a-string) |
@@ -315,6 +317,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
