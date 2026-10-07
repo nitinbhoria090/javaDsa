@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/nitinbhoria090/javaDsa/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/nitinbhoria090/javaDsa/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/nitinbhoria090/javaDsa/tree/master/0179-largest-number) |
+| [0301-remove-invalid-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/0301-remove-invalid-parentheses) |
 | [0459-repeated-substring-pattern](https://github.com/nitinbhoria090/javaDsa/tree/master/0459-repeated-substring-pattern) |
 | [0551-student-attendance-record-i](https://github.com/nitinbhoria090/javaDsa/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nitinbhoria090/javaDsa/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/nitinbhoria090/javaDsa/tree/master/0322-coin-change) |
 ## Knapsack Problem
 |  |
@@ -340,4 +342,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
