@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/nitinbhoria090/javaDsa/tree/master/0948-bag-of-tokens) |
 | [0989-add-to-array-form-of-integer](https://github.com/nitinbhoria090/javaDsa/tree/master/0989-add-to-array-form-of-integer) |
 | [1089-duplicate-zeros](https://github.com/nitinbhoria090/javaDsa/tree/master/1089-duplicate-zeros) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nitinbhoria090/javaDsa/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1539-kth-missing-positive-number](https://github.com/nitinbhoria090/javaDsa/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nitinbhoria090/javaDsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/nitinbhoria090/javaDsa/tree/master/1911-maximum-alternating-subsequence-sum) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/nitinbhoria090/javaDsa/tree/master/0560-subarray-sum-equals-k) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/nitinbhoria090/javaDsa/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nitinbhoria090/javaDsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2485-find-the-pivot-integer](https://github.com/nitinbhoria090/javaDsa/tree/master/2485-find-the-pivot-integer) |
 | [3903-smallest-stable-index-i](https://github.com/nitinbhoria090/javaDsa/tree/master/3903-smallest-stable-index-i) |
