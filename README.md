@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/nitinbhoria090/javaDsa/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/nitinbhoria090/javaDsa/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/nitinbhoria090/javaDsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbhoria090/javaDsa/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/nitinbhoria090/javaDsa/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/nitinbhoria090/javaDsa/tree/master/0645-set-mismatch) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/nitinbhoria090/javaDsa/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/nitinbhoria090/javaDsa/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/nitinbhoria090/javaDsa/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/nitinbhoria090/javaDsa/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/nitinbhoria090/javaDsa/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/nitinbhoria090/javaDsa/tree/master/0412-fizz-buzz) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/nitinbhoria090/javaDsa/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/nitinbhoria090/javaDsa/tree/master/0179-largest-number) |
+| [0242-valid-anagram](https://github.com/nitinbhoria090/javaDsa/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbhoria090/javaDsa/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/nitinbhoria090/javaDsa/tree/master/0645-set-mismatch) |
