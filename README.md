@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/nitinbhoria090/javaDsa/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/nitinbhoria090/javaDsa/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/nitinbhoria090/javaDsa/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/nitinbhoria090/javaDsa/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/nitinbhoria090/javaDsa/tree/master/0989-add-to-array-form-of-integer) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/nitinbhoria090/javaDsa/tree/master/0179-largest-number) |
 | [0301-remove-invalid-parentheses](https://github.com/nitinbhoria090/javaDsa/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/nitinbhoria090/javaDsa/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/nitinbhoria090/javaDsa/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/nitinbhoria090/javaDsa/tree/master/0459-repeated-substring-pattern) |
 | [0551-student-attendance-record-i](https://github.com/nitinbhoria090/javaDsa/tree/master/0551-student-attendance-record-i) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/nitinbhoria090/javaDsa/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/nitinbhoria090/javaDsa/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/nitinbhoria090/javaDsa/tree/master/0412-fizz-buzz) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitinbhoria090/javaDsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/nitinbhoria090/javaDsa/tree/master/2460-apply-operations-to-an-array) |
 ## Timsort
