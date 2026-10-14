@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitinbhoria090/javaDsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2460-apply-operations-to-an-array](https://github.com/nitinbhoria090/javaDsa/tree/master/2460-apply-operations-to-an-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/nitinbhoria090/javaDsa/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2965-find-missing-and-repeated-values](https://github.com/nitinbhoria090/javaDsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nitinbhoria090/javaDsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nitinbhoria090/javaDsa/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/nitinbhoria090/javaDsa/tree/master/0645-set-mismatch) |
 | [2094-finding-3-digit-even-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitinbhoria090/javaDsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2965-find-missing-and-repeated-values](https://github.com/nitinbhoria090/javaDsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3483-unique-3-digit-even-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/nitinbhoria090/javaDsa/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nitinbhoria090/javaDsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1952-three-divisors](https://github.com/nitinbhoria090/javaDsa/tree/master/1952-three-divisors) |
 | [2485-find-the-pivot-integer](https://github.com/nitinbhoria090/javaDsa/tree/master/2485-find-the-pivot-integer) |
+| [2965-find-missing-and-repeated-values](https://github.com/nitinbhoria090/javaDsa/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/nitinbhoria090/javaDsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/nitinbhoria090/javaDsa/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/3871-count-commas-in-range-ii) |
@@ -329,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/nitinbhoria090/javaDsa/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/0059-spiral-matrix-ii) |
+| [2965-find-missing-and-repeated-values](https://github.com/nitinbhoria090/javaDsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
 |  |
 | ------- |
