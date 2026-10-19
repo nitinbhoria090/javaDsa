@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/nitinbhoria090/javaDsa/tree/master/1539-kth-missing-positive-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/nitinbhoria090/javaDsa/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/nitinbhoria090/javaDsa/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nitinbhoria090/javaDsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nitinbhoria090/javaDsa/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitinbhoria090/javaDsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/nitinbhoria090/javaDsa/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/nitinbhoria090/javaDsa/tree/master/0912-sort-an-array) |
 | [0948-bag-of-tokens](https://github.com/nitinbhoria090/javaDsa/tree/master/0948-bag-of-tokens) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nitinbhoria090/javaDsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/nitinbhoria090/javaDsa/tree/master/2094-finding-3-digit-even-numbers) |
 | [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/nitinbhoria090/javaDsa/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/nitinbhoria090/javaDsa/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/nitinbhoria090/javaDsa/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/nitinbhoria090/javaDsa/tree/master/0374-guess-number-higher-or-lower) |
 | [1539-kth-missing-positive-number](https://github.com/nitinbhoria090/javaDsa/tree/master/1539-kth-missing-positive-number) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nitinbhoria090/javaDsa/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Interactive
 |  |
 | ------- |
