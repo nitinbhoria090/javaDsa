@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/nitinbhoria090/javaDsa/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/nitinbhoria090/javaDsa/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/nitinbhoria090/javaDsa/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/nitinbhoria090/javaDsa/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nitinbhoria090/javaDsa/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/nitinbhoria090/javaDsa/tree/master/0169-majority-element) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nitinbhoria090/javaDsa/tree/master/0004-median-of-two-sorted-arrays) |
+| [0074-search-a-2d-matrix](https://github.com/nitinbhoria090/javaDsa/tree/master/0074-search-a-2d-matrix) |
 | [0278-first-bad-version](https://github.com/nitinbhoria090/javaDsa/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/nitinbhoria090/javaDsa/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/nitinbhoria090/javaDsa/tree/master/0367-valid-perfect-square) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/nitinbhoria090/javaDsa/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/nitinbhoria090/javaDsa/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/nitinbhoria090/javaDsa/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/nitinbhoria090/javaDsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Tree
 |  |
